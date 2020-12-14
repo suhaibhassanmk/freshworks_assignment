@@ -1,6 +1,6 @@
 # freshworks_assignment
 
-The main JAR file has been created in java called freshworks.jar
+The main JAR file has been created in java called freshworks.jar. This is the main package to be downloaded and used.
 The 3 dependencies for this jar file are:
   jackson-annotations-2.9.8.jar
   jackson-core-2.9.8.jar
@@ -22,3 +22,5 @@ The JSON opject consists of a key value pair in the format - KEY : JSONObject [N
 The Singleton class is used to ensure single threaded operation.
 
 Jackson API provides multiple approaches to working with JSON, including using binding annotations on POJO classes for simple use cases. 
+
+The Java Program Files CRD.java , JSONObject.java and Singleton.java are also uploaded in the repository for your reference.
