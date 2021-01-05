@@ -17,7 +17,7 @@ The main class is the CDR class present in the freshworks.jar
     
 The suitable dats structure to store key value pair was a Hashmap <Key,JSONObject>.
 As part of JSON object, 2 parameters are to be provided as an input during run time : Name and Age.
-The JSON opject consists of a key value pair in the format - KEY : JSONObject [NAME : "Name", AGE : "Age", TIME CREATED : *Time at which the key value pair was created*]
+The JSON object consists of a key value pair in the format - KEY : JSONObject [NAME : "Name", AGE : "Age", TIME CREATED : *Time at which the key value pair was created*]
 
 The Singleton class is used to ensure single threaded operation.
 
