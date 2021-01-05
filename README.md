@@ -9,7 +9,7 @@ The 3 dependencies for this jar file are:
 To run the jar file with the dependencies, refer the link : https://timjansen.github.io/jarfiller/javabasics/jar/libraries.xhtml
 
 The main class is the CDR class present in the freshworks.jar
-  The key value pair I/O operations are done in this here.
+  The key value pair I/O operations are done in this.
   The operations need to be selected during run-time, they are:
     1.CREATE
     2.READ
